@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DiscoPanzer
+- 👀 I’m interested in building relations
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on various team based projects!!
